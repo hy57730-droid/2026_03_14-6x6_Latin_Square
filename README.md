@@ -37,11 +37,11 @@ python puzzle_generator.py
 4. The file puzzle6x6.pdf will be generated in the same folder.
 
 ### 🎮 Difficulty Levels
-| Level      | Hints per Row | Random Removal | Description                         |
-|------------|----------------|----------------|-------------------------------------|
-| A (Easy)   | 3              | 0              | Suitable for children; many hints.  |
-| B (Normal) | 2              | 2              | Balanced difficulty for adults.     |
-| C (Hard)   | 2              | 4              | Requires logical reasoning.         |
+| Difficulty | Hints per Row (approx.) | Random Removal | Description |
+|------------|--------------------------|----------------|-------------|
+| A (Easy)   | About 3–4                | Adjusted to 20 total hints | Easiest level. Many cells are pre‑filled, making the puzzle intuitive and beginner‑friendly. |
+| B (Normal) | About 3                  | Adjusted to 18 total hints | Standard difficulty. Same level as the previous “A”, comfortable for most players. |
+| C (Hard)   | About 2–3                | Adjusted to 16 total hints | Slightly challenging. Requires comparing candidates and logical deduction. |
 
 ### 📄 PDF Layout
 * A4 size
@@ -98,11 +98,11 @@ python puzzle_generator.py
 4. 同じフォルダに puzzle6x6.pdf が生成されます。
 
 ### 🎮 難易度の違い
-| 難易度         | 行ごとのヒント数 | ランダム削除 | 特徴                         |
-|----------------|------------------|--------------|------------------------------|
-| A（やさしい）  | 3                | 0            | 小学生でも解けるレベル。ヒント多め。 |
-| B（ふつう）    | 2                | 2            | 大人が楽しめる標準難易度。           |
-| C（むずかしい）| 2                | 4            | 推理が必要な難問。                   |
+| 難易度 | 行ごとのヒント数（目安） | ランダム削除 | 特徴 |
+|--------|---------------------------|--------------|------|
+| A（やさしい） | 約3〜4 | 最終20ヒントに調整 | 最も易しいレベル。多くのマスが埋まっており、直感的に解ける。 |
+| B（ふつう） | 約3 | 最終18ヒントに調整 | 標準的な難易度。元のAと同じレベルで解きやすい。 |
+| C（むずかしい） | 約2〜3 | 最終16ヒントに調整 | やや難しい。候補比較や推理が必要になる。 |
 
 ### 📄 PDF レイアウト
 * A4 サイズ
